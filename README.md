@@ -1,5 +1,7 @@
 # google-github-actions/deploy-cloudrun
 
+A GitHub Action for deploying services to Google Cloud Run.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun).
 
 ## Versions

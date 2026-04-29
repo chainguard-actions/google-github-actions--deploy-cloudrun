@@ -1,5 +1,6 @@
 {
   "owner": "google-github-actions",
   "name": "deploy-cloudrun",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "A GitHub Action for deploying services to Google Cloud Run."
 }
