@@ -1,4 +1,6 @@
 {
-  "upstream": "google-github-actions/deploy-cloudrun",
-  "version": "v3"
+  "owner": "google-github-actions",
+  "repo": "deploy-cloudrun",
+  "version": "",
+  "url": "https://github.com/google-github-actions/deploy-cloudrun"
 }
